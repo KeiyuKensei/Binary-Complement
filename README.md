@@ -2,11 +2,13 @@
 
 Simple Calculator for One and Two Binary Complement
 
-Image 1° => 
-![Image](../image/Image_1°.png)
+Image 1° 
 
-Image 2° => 
-![Image](../image/Image_2°.png)
+![Image](https://github.com/KeiyuKensei/Binary-Complement/blob/main/image/Image_1°.png)
+
+Image 2°  
+
+![Image](https://github.com/KeiyuKensei/Binary-Complement/blob/main/image/Image_2°.png)
 
 # Installation
 ## Prerequisites
