@@ -84,8 +84,8 @@ void twocomplement(int vet[], int &decimal, int dim)
 
     if (vet[dim - 1] == 1)
     {
+        Not(vet,dim);
         
-        cout << endl;
         for (int i = 0; i < dim; i++)
         {
             if (vet[i] == 0 && r == 0)
