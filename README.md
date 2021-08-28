@@ -1,5 +1,5 @@
 # Binary Complement
-![MIT License](https://img.shields.io/github/license/SortableJS/Vue.Draggable.svg)
+[![MIT License](https://img.shields.io/github/license/SortableJS/Vue.Draggable.svg)](https://github.com/KeiyuKensei/Binary-Complement/blob/main/LICENSE)
 Simple Calculator for One and Two Binary Complement
 
 Image 1° 
