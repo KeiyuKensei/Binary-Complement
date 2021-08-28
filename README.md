@@ -1,6 +1,6 @@
 # Binary Complement
 
-Simple Calculator for One and Two Binary Complement
+Simple Calculator for One and Two Binary Complement in decimal
 
 ### Theory
 What is the ones' complement =>
@@ -35,7 +35,7 @@ In order to compile this project you will need to:
 
 ## How to use?
 
-- For the binary number required for initialization you must enter bit by bit.
+- For the binary number required for initialization you must enter the bits all together.
 - The program will display the inserted binary number converted to decimal
 
 ## Additional info
